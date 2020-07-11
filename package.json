@@ -24,6 +24,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jest": "^26.1.0",
+    "migrate": "^1.7.0",
     "sqlite3": "^5.0.0"
   }
 }
